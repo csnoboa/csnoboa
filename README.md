@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Atos, as Developer JR
+- 🔭 I’m currently working at Mercado Libre, as Backend Developer.
 
 - 🌱 I’m always learning Python and Flutter
 
